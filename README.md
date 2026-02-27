@@ -32,8 +32,8 @@
 
 | No. | Module | Certificate | Files |
 |:---:|--------|------------|------------------|
-|1| [Fundamentals of Deep Learning](https://www.coursera.org/learn/fundamentals-of-deep-learning) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/certificates/fundamentals-certificate.pdf) | [View Files](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/Course-1-Fundamentals-of-Deep-Learning) |
-|2|[Advanced Deep Learning Techniques](https://www.coursera.org/learn/fundamentals-of-deep-learning) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/certificates/advanced-certificate.pdf) | [View Files](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/Course-2-Advanced-Deep-Learning-Techniques) |
+|1| [Fundamentals of Deep Learning](https://www.coursera.org/learn/fundamentals-of-deep-learning) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-NVIDIA/Course-1-Fundamentals-of-Deep-Learning/certificate/NVIDIA%20-%20Fundamentals%20of%20Deep%20Learning.pdf) | [View Files](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/Course-1-Fundamentals-of-Deep-Learning) |
+|2|[Advanced Deep Learning Techniques](https://www.coursera.org/learn/fundamentals-of-deep-learning) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-NVIDIA/Course-2-Advanced-Deep-Learning-Techniques/certificate/NVIDIA%20-%20Fundamentals%20of%20Deep%20Learning.pdf) | [View Files](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/Course-2-Advanced-Deep-Learning-Techniques) |
 
 ---
 
