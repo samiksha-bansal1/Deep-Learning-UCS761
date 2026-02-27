@@ -21,10 +21,10 @@
 
 | No. | Assignment | Description | Repository |
 |:---:|------------|------------|------------|
-| 1 | Assignment 01 |Implemented logic gates (AND, OR, NOT, NAND, NOR, XOR) using single-layer perceptrons and MLP with TensorFlow/Keras and sigmoid activation | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Assignment%2001/DL%20Logic%20Gates.ipynb) |
-| 2 | Assignment 02 |Built a Logistic Regression model from scratch using NumPy on the Glass dataset for binary classification, with custom train-test split, StandardScaler, sigmoid function and gradient descent | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Assignment%2002/DL%20Logistic%20Regression.ipynb) |
-| 3 | Assignment 03 |Implemented Multiple Linear Regression from scratch using NumPy to predict income based on age and experience, with MSE loss and gradient descent optimization | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Assignment%2003/DL%20Multiple%20Linear%20Regression.ipynb) |
-| 4 | Assignment 04 | Built a Linear Regression Neuron from scratch on the Abalone dataset (UCI) to predict age using Length, Diameter and Whole Weight features, with custom StandardScaler and MSE-based gradient descent | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Assignment%2004/DL%20%20Linear%20Regression%20Neuron.ipynb) |
+| 1 | Assignment 01 |Implemented logic gates (AND, OR, NOT, NAND, NOR, XOR) using single-layer perceptrons and MLP with TensorFlow/Keras and sigmoid activation | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2001/DL%20Logic%20Gates.ipynb) |
+| 2 | Assignment 02 |Built a Logistic Regression model from scratch using NumPy on the Glass dataset for binary classification, with custom train-test split, StandardScaler, sigmoid function and gradient descent | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2002/DL%20Logistic%20Regression.ipynb) |
+| 3 | Assignment 03 |Implemented Multiple Linear Regression from scratch using NumPy to predict income based on age and experience, with MSE loss and gradient descent optimization | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2003/DL%20Multiple%20Linear%20Regression.ipynb) |
+| 4 | Assignment 04 | Built a Linear Regression Neuron from scratch on the Abalone dataset (UCI) to predict age using Length, Diameter and Whole Weight features, with custom StandardScaler and MSE-based gradient descent | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2004/DL%20%20Linear%20Regression%20Neuron.ipynb) |
 
 ---
 
