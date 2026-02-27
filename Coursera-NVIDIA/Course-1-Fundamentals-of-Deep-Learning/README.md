@@ -2,7 +2,7 @@
 
 **Platform:** Coursera | **Provider:** Whizlabs  
 **Course Link:** [Fundamentals of Deep Learning](https://www.coursera.org/learn/fundamentals-of-deep-learning)  
-**Certificate:** [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/Course-1-Fundamentals-of-Deep-Learning/certificate)
+**Certificate:** [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-NVIDIA/Course-1-Fundamentals-of-Deep-Learning/certificate/NVIDIA%20-%20Fundamentals%20of%20Deep%20Learning.pdf)
 
 ---
 
