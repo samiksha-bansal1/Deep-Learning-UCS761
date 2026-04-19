@@ -37,6 +37,12 @@
 |2|[Advanced Deep Learning Techniques](https://www.coursera.org/learn/fundamentals-of-deep-learning) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-NVIDIA/Course-2-Advanced-Deep-Learning-Techniques/certificate/NVIDIA%20-%20Fundamentals%20of%20Deep%20Learning.pdf) | [View Files](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/tree/main/Coursera-NVIDIA/Course-2-Advanced-Deep-Learning-Techniques) |
 
 ---
+### 🎓 Coursera – IBM Modules
+
+| No. | Module | Certificate |
+|:---:|--------|------------|
+|1| [Generative AI: Introduction and Applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-IBM/Course-1-Generative-AI-Introduction-and-Applications/certificate.pdf) |
+|2| [Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms) | [View Certificate](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-IBM/Course-2-Generative-AI-Foundation-Models-and-Platforms/certificate.pdf) |
 
 ### 👤 Author
 
