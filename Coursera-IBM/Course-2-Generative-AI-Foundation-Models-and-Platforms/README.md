@@ -1,7 +1,7 @@
-# Course 2: IBM - Generative AI: Introduction and Applications
+# Course 2: IBM - Generative AI: Foundation Models and Platforms
 
 **Platform:** Coursera | **Provider:** IBM  
-**Course Link:** [Generative AI: Introduction and Applications](https://www.coursera.org/learn/generative-ai-introduction-and-applications)  
+**Course Link:** [Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms)
 **Certificate:** [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Coursera-IBM/Course-2-Generative-AI-Foundation-Models-and-Platforms/certificate.pdf)
 
 ---
