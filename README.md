@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Course-UCS761-blue" />
   <img src="https://img.shields.io/badge/Subject-Deep%20Learning-green" />
-  <img src="https://img.shields.io/badge/Platform-Coursera%20|%20NVIDIA-orange" />
+  <img src="https://img.shields.io/badge/Platform-Coursera-orange" />
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
