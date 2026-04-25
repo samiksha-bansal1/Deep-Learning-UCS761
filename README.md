@@ -28,6 +28,8 @@
 | 5 | Assignment 05 (I) | Built a 2-layer Neural Network from scratch using NumPy with ReLU activation, implementing forward pass, backpropagation and gradient descent to learn nonlinear (logarithmic) patterns that linear models cannot fit | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2005/Assignment_05_Backpropagation.ipynb) |
 | 6 | Assignment 05 (II) | Analysed shallow vs deep neural networks from scratch using NumPy, comparing 4 architectures (1–8 hidden layers) across multiple activation functions (ReLU, Sigmoid, Tanh, Leaky ReLU, Softplus), studying vanishing gradients, training stability and the effect of depth on loss convergence | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2005/Analysis%20of%20Shallow%20vs%20Deep%20Neural%20Networks.ipynb) |
 | 7 | Assignment 06 | From Numbers to Vision — Building, Breaking & Comparing: explored image classification using deep learning, analysing model architectures, performance comparisons and visual feature learning | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%2006/assignment6.ipynb) |
+| 8 | Assignment Timeseries | Built a deep learning time-series forecasting system on monthly Electric Production data using RNN, LSTM, GRU, and Vision Transformer models in PyTorch. Compared models using MAE, RMSE, MAPE, and R², with Vision Transformer achieving the best performance. | [View](https://github.com/samiksha-bansal1/Deep-Learning-UCS761/blob/main/Assignment%20TimeSeries/Assignment%20timeseries.ipynb) |
+
 ---
 
 ### 🎓 Coursera – NVIDIA Modules
